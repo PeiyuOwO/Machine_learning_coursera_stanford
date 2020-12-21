@@ -6,8 +6,8 @@ This is my lecture notes and my solution to the quizes and assignment of machine
 
 * Lecture Slides
 * Lecture Notes
-* Quiz Solution
-* Assignments Solution
+* Quiz Solutions
+* Assignment Solutions
 
 ## Language
 
