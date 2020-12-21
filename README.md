@@ -11,7 +11,7 @@ This is my lecture notes and my solution to the quizes and assignment of machine
 
 ## Reference
 
-https://www.coursera.org/learn/machine-learningbar.singularize('phenomena') # returns 'phenomenon'
+* [Machine Learning](https://www.coursera.org/learn/machine-learning)
 
 
 ## Contributor
