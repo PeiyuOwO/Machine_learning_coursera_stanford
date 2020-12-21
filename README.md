@@ -9,6 +9,10 @@ This is my lecture notes and my solution to the quizes and assignment of machine
 * Quiz Solution
 * Assignments Solution
 
+## Language
+
+* Matlab
+
 ## Reference
 
 * [Machine Learning](https://www.coursera.org/learn/machine-learning)
