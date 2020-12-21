@@ -15,7 +15,7 @@ https://www.coursera.org/learn/machine-learningbar.singularize('phenomena') # re
 
 
 ## Contributor
-<td align="center"><a href="https://github.com/HarryHaoyuan"><img src="https://avatars1.githubusercontent.com/u/61959614" width="120px;" alt=""/><br /><sub><b>Haoyuan Yu</b></sub></a></td>
+<td align="center"><a href="https://github.com/PeiyuOwO"><img src="https://avatars2.githubusercontent.com/u/56665146" width="120px;" alt=""/><br /><sub><b>Peiyu Wu</b></sub></a></td>
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
